@@ -9,6 +9,13 @@ Kaggle Notebook을 공부하며 EDA와 ML Modeling에 대해 공부합니다.
 2. Notebook을 따라하면서 저자의 **EDA와 Modeling의 흐름을 이해**합니다.
 3. 해당 Notebook을 공부하며 **배운 점**과 **아쉬웠던 부분**을 정리합니다.
 
+## Study 일정
+
+| Duration | Competition | NoteBook |
+| :------: | :---------: | :------: |
+| 2021.09.27 ~ 2021.10.04 | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) | [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)|
+| 2021.10.04 ~ 2021.10.25 | '' | [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic) |
+
 ## Reference
 
 - [캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32) 에 있는 Kaggle NoteBook
