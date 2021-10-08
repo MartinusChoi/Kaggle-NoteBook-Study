@@ -13,4 +13,4 @@ Kaggle Notebook을 공부하며 EDA와 ML Modeling에 대해 공부합니다.
 
 - [캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32) 에 있는 Kaggle NoteBook
 - [Sejong-Kaggle-Challengers/kagglestudy](https://github.com/Sejong-Kaggle-Challengers/kagglestudy)
-    - 모든 study 내용은 **'세종 캐글스터디 그룹'**에서 진행하는 내용이며, **kaggle notebook expert**를 목표로 달립니다.
+    - 모든 study 내용은 **'세종 캐글스터디 그룹'** 에서 진행하는 내용이며, **kaggle notebook expert** 를 목표로 달립니다.
